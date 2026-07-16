@@ -1,12 +1,16 @@
 The Real Estate Academy
 Phase 1 Blueprint
 Document 1: Mission, Vision & Teaching Philosophy
+
 Purpose
 The Real Estate Academy exists to develop exceptional Ontario real estate professionals by combining academic excellence, ethical leadership, genuine human connection, and modern technology. The objective is not merely to pass the Humber licensing program, but to build a lifelong career rooted in trust, competence, and continuous learning.
+
 Mission
 To educate, mentor, and prepare real estate professionals who consistently place people before transactions while mastering the knowledge, technology, and business skills required to thrive.
+
 Vision
 To create a living academy that evolves alongside the real estate profession, producing trusted advisors who embrace innovation without compromising integrity.
+
 Core Philosophy
 - Character before commission.
 - Relationships before transactions.
@@ -14,6 +18,7 @@ Core Philosophy
 - Technology should amplify human connection, not replace it.
 - Reputation compounds over time.
 - Every client deserves to leave more informed than when they arrived.
+
 Teaching Methodology
 Each topic will include:
 • Foundations and theory
@@ -23,8 +28,10 @@ Each topic will include:
 • AI-assisted exercises
 • Quizzes and knowledge checks
 • Real-world application
+
 Expected Outcome
 Graduates should possess the knowledge to succeed in licensing, the confidence to advise clients responsibly, and the habits of lifelong professional growth.
+
 Phase 1 Deliverables (Planned)
 1. Mission, Vision & Teaching Philosophy (this document)
 2. Core Values & The Realtor's Code

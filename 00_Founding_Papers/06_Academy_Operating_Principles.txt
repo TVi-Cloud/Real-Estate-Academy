@@ -1,32 +1,46 @@
 The Real Estate Academy
 Phase 1 Blueprint
 Document 6: Academy Operating Principles
+
 Purpose
 These operating principles govern how The Real Estate Academy is built, maintained, and improved. They ensure the academy remains a living body of knowledge that evolves with the profession while remaining grounded in timeless values.
+
 1. Build for Decades
 Every lesson should remain valuable long after licensing. Teach enduring principles first and changing details second.
+
 2. Truth Over Ego
 If new evidence, legislation, or better practices emerge, update the academy. Being correct matters more than being attached to old ideas.
+
 3. Human First
 Technology supports relationships; it never replaces empathy, trust, or professional judgment.
+
 4. AI as a Mentor
 Use AI to accelerate learning, creativity, organization, and productivity while verifying important facts and preserving independent thinking.
+
 5. Ontario First
 Teach with Ontario laws, standards, and examples as the foundation before expanding to broader concepts.
+
 6. Learn by Doing
 Knowledge becomes mastery through application, simulations, projects, and reflection.
+
 7. Continuous Versioning
 The academy is versioned like software. Every meaningful improvement is documented and traceable.
+
 8. Open to Innovation
 Monitor developments in AI, finance, construction, marketing, legislation, and society to keep the curriculum current.
+
 9. Teach the Why
 Students should understand the reasoning behind every principle, not simply memorize procedures.
+
 10. Legacy Mindset
 The goal is to create professionals whose reputation, service, and leadership continue benefiting clients and communities for decades.
+
 Repository Philosophy
 The academy is maintained as a structured knowledge repository. Documents are organized into logical folders, version controlled, and designed so AI assistants and human collaborators can navigate, reference, and improve the curriculum efficiently.
+
 Version 1.0 Commitment
 Perfection is not required to begin. The academy starts with strong foundations, then grows through disciplined iteration, practical experience, and continuous learning.
+
 Closing Principle
 Honor timeless principles.
 Master modern tools.
