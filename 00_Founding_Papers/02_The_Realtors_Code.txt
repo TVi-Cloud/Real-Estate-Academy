@@ -3,7 +3,7 @@ Phase 1 Blueprint
 Document 2: The Realtor's Code
 
 Purpose
-This document defines the principles that guide every lesson, client interaction, and business decision. It serves as the moral and professional compass of The Real Estate Academy.
+This document defines the principles that guide every learning experience, client interaction, and business decision. It serves as the moral and professional compass of The Real Estate Academy.
 
 1. People Before Profit
 Serve the client's best interests first. Long-term trust is more valuable than a short-term commission.

@@ -1,0 +1,114 @@
+The Real Estate Academy
+Development Standard 03
+Learning Experience Standard
+Version 1.0
+
+Purpose
+This document establishes the minimum quality standard for every Learning Experience within The Real Estate Academy. A Learning Experience is the Academy's primary educational building block. Its purpose is not merely to transfer information, but to create understanding, develop professional judgment, build confidence, encourage ethical decision-making, and prepare learners for real-world application.
+
+Design Philosophy
+A Learning Experience is not a lecture. It is an experience. Every Learning Experience should engage the learner intellectually, professionally, and personally. Knowledge should lead to understanding. Understanding should lead to confidence. Confidence should lead to action.
+
+Learning Experience Metadata
+Module Number
+Module Title
+Unit Number
+Unit Title
+Learning Experience Number
+Learning Experience Title
+Version
+Status
+Estimated Completion Time
+Difficulty
+Prerequisites
+Dependencies
+Last Updated
+Author
+Contributors
+
+Required Sections
+1. Mission
+Describe the transformation this Learning Experience is intended to produce.
+
+2. Big Question
+One guiding question that anchors the entire Learning Experience.
+
+3. Why This Matters
+Explain why the learner should care and how this improves client outcomes.
+
+4. Learning Objectives
+Use action-oriented outcomes such as explain, demonstrate, apply, evaluate, recommend, and create.
+
+5. Key Vocabulary
+Introduce professional terminology using clear, plain-language definitions.
+
+6. Foundations
+Teach concepts from first principles, building intuition before complexity.
+
+7. Ontario Context
+Relate the topic to Ontario legislation, standards, and professional practice where appropriate.
+
+8. Professional Insight
+Explain how experienced professionals think differently than beginners.
+
+9. Practical Example
+Bridge theory to practice using realistic situations.
+
+10. Case Study
+Provide a realistic scenario for learners to analyze before reviewing the recommended approach.
+
+11. AI Lab
+Show responsible ways AI can improve research, organization, communication, marketing, and productivity while preserving professional judgment.
+
+12. Reflection
+Conclude with three reflections: Knowledge, Professional Judgment, and Action.
+
+13. Knowledge Check
+Use a mixture of multiple-choice, short-answer, and scenario-based questions.
+
+14. Academy Assignment
+Provide one practical, real-world exercise demonstrating application.
+
+15. Connections
+Reference previous and future Learning Experiences, related Units, Modules, books, and resources.
+
+16. Mentor Notes
+Capture practical wisdom, common mistakes, habits, and insights that rarely appear in textbooks.
+
+17. Additional Resources
+List books, articles, videos, Ontario references, AI prompts, and further reading.
+
+18. Instructor Notes
+Internal guidance including sequencing rationale, misconceptions, and future improvements.
+
+19. Future Expansion
+Record ideas for additional content, legislation updates, guest contributors, and emerging technologies.
+
+20. Revision History
+Track changes using semantic versioning.
+
+Learning Experience Quality Standard
+Aligns with the Founding Papers.
+Supports the Curriculum Master Plan.
+Reinforces the Unit Mission.
+Develops long-term professional competence.
+Encourages ethical decision-making.
+Builds confidence through practical application.
+Integrates AI responsibly.
+Uses Ontario-specific context where appropriate.
+Prioritizes understanding over memorization.
+Provides value well beyond licensing.
+
+The Three Outcomes
+Every Learning Experience must produce three outcomes:
+
+Knowledge — The learner understands something new.
+
+Professional Judgment — The learner thinks differently.
+
+Action — The learner is prepared to act differently.
+
+If one of these outcomes is missing, the Learning Experience is incomplete.
+
+Guiding Principle
+A great Learning Experience does more than teach information. It changes how a professional sees the world, serves clients, and approaches their craft.

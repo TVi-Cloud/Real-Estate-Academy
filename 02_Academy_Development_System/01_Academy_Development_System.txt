@@ -14,7 +14,7 @@ Define what the learner should know, understand, and apply.
 2. Curriculum Design
 Map the module, unit, and lesson before writing.
 3. Content Creation
-Develop lessons using Academy templates and Founding Papers.
+Develop lessons using Academy standards and Founding Papers.
 4. Ontario Context
 Ground concepts in Ontario practice and legislation where appropriate.
 5. AI Integration
@@ -26,15 +26,15 @@ Commit changes to GitHub with meaningful history.
 8. Continuous Improvement
 Refine content as the profession evolves.
 
-Required Content Templates
-Module Template
-Unit Template
-Lesson Template
-Case Study Template
-AI Lab Template
-Assessment Template
-Capstone Template
-Project Template
+Required Content Development Standards
+Module Standard
+Unit Standard
+Learning Experience Standard
+Case Study Standard
+AI Lab Standard
+Assessment Standard
+Project Standard
+Capstone Standard
 
 Quality Checklist
 Accurate and evidence-based.

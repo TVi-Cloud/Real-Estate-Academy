@@ -1,0 +1,92 @@
+The Real Estate Academy
+Development Standard 06
+Assessment Standard
+Version 1.0
+
+Purpose
+This document establishes the minimum quality standard for every assessment within The Real Estate Academy. Assessments measure understanding, professional judgment, ethical reasoning, communication, and practical application—not memorization alone.
+
+Design Philosophy
+Assessment is part of learning, not merely a measurement at the end. Every assessment should reinforce concepts, encourage reflection, and provide meaningful feedback that helps learners improve.
+
+Assessment Metadata
+Module Number
+Unit Number
+Related Learning Experience(s)
+Assessment Title
+Assessment Type
+Difficulty
+Estimated Completion Time
+Competencies Assessed
+Passing Standard
+Version
+Author
+Contributors
+
+Required Sections
+1. Assessment Purpose
+State why this assessment exists and which competencies it measures.
+
+2. Learning Outcomes Assessed
+Identify the specific outcomes being evaluated.
+
+3. Assessment Format
+Describe the assessment structure (quiz, short answer, scenario, presentation, reflection, practical exercise, etc.).
+
+4. Instructions
+Provide clear expectations, submission requirements, and success criteria.
+
+5. Assessment Content
+Present questions or activities using a progression from foundational understanding to professional application.
+
+6. Scenario-Based Evaluation
+Include realistic situations requiring professional judgment whenever appropriate.
+
+7. Reflection Component
+Encourage learners to evaluate their own reasoning, confidence, and areas for improvement.
+
+8. Evaluation Rubric
+Define how work will be assessed using transparent criteria.
+
+9. Feedback Strategy
+Specify how constructive feedback should guide further learning.
+
+10. Ontario Context
+Include Ontario-specific considerations where appropriate.
+
+11. AI Considerations
+State whether AI may be used, how it may be used responsibly, and which work must remain the learner's own.
+
+12. Common Misconceptions
+Identify frequent errors and learning opportunities.
+
+13. Revision History
+Track updates using semantic versioning.
+
+Assessment Quality Standard
+Measures understanding before recall.
+Evaluates professional judgment and ethics.
+Encourages critical thinking.
+Includes practical application.
+Provides actionable feedback.
+Supports long-term competence.
+Aligns with the Founding Papers and Curriculum Master Plan.
+Maintains fairness, clarity, and transparency.
+
+Assessment Principles
+Assess for growth, not perfection.
+Reward reasoning, not guesswork.
+Value communication as highly as technical accuracy.
+Use mistakes as opportunities for learning.
+Assess the ability to serve clients—not simply pass exams.
+
+Include a rating for each of the 4 dimensions listed below.
+
+Example:
+* 🧠 Knowledge: 9.5 / 10
+* ⚖️ Professional Judgment: 8.8 / 10
+* 💬 Communication: 9.2 / 10
+* ❤️ Ethics & Client Focus: 10 / 10
+
+Guiding Principle
+An exceptional assessment should leave learners more capable than when they began. The goal is not to prove what they know, but to strengthen how they think, decide, and serve.

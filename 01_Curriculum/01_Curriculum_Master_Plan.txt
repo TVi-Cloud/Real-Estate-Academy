@@ -3,7 +3,7 @@ Curriculum Master Plan
 Version 1.0
 
 Purpose
-The Curriculum Master Plan is the master blueprint for the Academy. It defines the complete learning journey from orientation through graduation. Every future lesson, case study, AI Lab, assessment, and capstone project originates from this document.
+The Curriculum Master Plan is the master blueprint for the Academy. It defines the complete learning journey from orientation through graduation. Every future learning experience, case study, AI Lab, assessment, and capstone project originates from this document.
 
 Curriculum Philosophy
 The Academy develops complete professionals—not merely licensed Realtors. Character, knowledge, business, technology, leadership, and lifelong learning are developed together.
@@ -114,7 +114,7 @@ Mock Transactions
 Portfolio
 Graduation
 
-Standard Lesson Template
+Learning Experience Standards
 • Overview
 • Objectives
 • Vocabulary
@@ -133,7 +133,7 @@ Assessment Strategy
 Each module concludes with quizzes, scenario-based exercises, and an Academy Project demonstrating real-world competence.
 
 Curriculum Design Questions
-Every lesson should answer:
+Every learning experience should answer:
 • Why does this matter?
 • How is it applied in Ontario?
 • How would an exceptional Realtor use it?

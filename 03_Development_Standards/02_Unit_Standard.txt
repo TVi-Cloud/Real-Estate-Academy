@@ -1,0 +1,94 @@
+The Real Estate Academy
+Development Standard 02
+Unit Standard
+Version 1.0
+
+Purpose
+This document establishes the minimum quality standard for every Unit within The Real Estate Academy. A Unit is a coherent collection of Learning Experiences that develops one major competency within a Module. Every Unit must contribute directly to the Module Mission and prepare learners for the next stage of their educational journey.
+
+Design Philosophy
+A Unit is not simply a collection of lessons. It is a progression. Every Learning Experience should naturally prepare the learner for the next one. By the end of a Unit, students should have mastered one meaningful area of professional competence before moving forward.
+
+Unit Metadata
+Module Number
+Module Title
+Unit Number
+Unit Title
+Version
+Status (Draft / Review /Published)
+Estimated Completion Time
+Difficulty
+Prerequisites
+Dependencies
+Last Updated
+Author
+Contributors
+
+Required Sections
+1. Unit Mission
+Describe the transformation this Unit is intended to produce.
+
+2. Big Question
+One guiding question that anchors every Learning Experience in the Unit.
+
+3. Why This Unit Matters
+Explain the practical value of mastering this competency and how it improves client outcomes.
+
+4. Learning Outcomes
+Describe what learners will be able to do by the end of the Unit using action-oriented outcomes.
+
+5. Core Competencies
+Identify knowledge, communication, ethics, AI, client service, critical thinking, and professional judgment developed.
+
+6. Learning Experience Roadmap
+List every Learning Experience in sequence with estimated time, difficulty, and prerequisites.
+
+7. Vocabulary
+List and organize essential terminology introduced within the Unit.
+
+8. Ontario Context
+Explain how this Unit relates specifically to Ontario legislation, standards, and practice where appropriate.
+
+9. Professional Insight
+Capture how experienced professionals think differently than beginners regarding this competency.
+
+10. AI Integration Strategy
+Describe responsible ways AI enhances learning and professional practice without replacing judgment.
+
+11. Unit Case Studies
+List the practical case studies included in the Unit.
+
+12. Academy Project
+Define one substantial real-world project demonstrating mastery.
+
+13. Assessment Strategy
+Specify quizzes, reflections, scenarios, practical evaluations, and project assessments.
+
+14. Completion Criteria
+Define the standard required to successfully complete the Unit.
+
+15. Connections
+Reference previous Units, future Units, related Modules, Academy Projects, and the Capstone.
+
+16. Instructor Notes
+Internal curriculum guidance including sequencing rationale, misconceptions, teaching notes, and future improvements.
+
+17. Future Expansion
+Record ideas for additional Learning Experiences, industry trends, technology, legislation, and research.
+
+18. Revision History
+Track meaningful changes using semantic versioning.
+
+Unit Quality Standard
+Supports the Founding Papers.
+Aligns with the Curriculum Master Plan.
+Contributes directly to the Module Mission.
+Builds long-term professional competence.
+Integrates ethics and human connection.
+Uses Ontario-specific context where appropriate.
+Incorporates AI responsibly.
+Emphasizes practical application.
+Provides lasting value beyond licensing.
+
+Guiding Principle
+A Unit should not simply organize information. It should develop one professional capability that students will carry with them throughout their careers.

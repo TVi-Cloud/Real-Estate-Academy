@@ -1,0 +1,81 @@
+The Real Estate Academy
+Development Standard 05
+AI Lab Standard
+Version 1.0
+
+Purpose
+This document establishes the minimum quality standard for every AI Lab within The Real Estate Academy. AI Labs teach learners how to responsibly integrate artificial intelligence into professional real estate workflows while strengthening—not replacing—human expertise, ethics, and client relationships.
+
+Design Philosophy
+An AI Lab is a guided hands-on experience. Learners should experiment, evaluate results, refine prompts, and develop professional judgment about when AI is helpful, when it is insufficient, and when human expertise must lead.
+
+AI Lab Metadata
+Module Number
+Unit Number
+Related Learning Experience
+AI Lab Title
+Difficulty
+Estimated Time
+AI Platforms Used
+Required Skills
+Version
+Author
+Contributors
+
+Required Sections
+1. Learning Purpose
+Explain why this AI workflow matters to modern Realtors.
+
+2. Professional Context
+Describe where this workflow fits into a real client interaction or business process.
+
+3. Learning Outcomes
+Define measurable skills learners will demonstrate after completing the AI Lab.
+
+4. Required Tools
+List AI platforms, software, datasets, or supporting resources needed.
+
+5. Workflow Overview
+Provide a high-level view of the complete AI-assisted workflow before beginning.
+
+6. Prompt Library
+Supply well-designed prompts, explain prompt engineering decisions, and encourage thoughtful refinement rather than blind copying.
+
+7. Guided Exercise
+Lead learners through the workflow step by step while explaining the reasoning behind each action.
+
+8. Output Evaluation
+Teach learners how to verify AI responses for accuracy, completeness, bias, legal considerations, and professional quality.
+
+9. Human Review
+Identify which parts of the workflow always require human judgment, ethical reasoning, or client-specific expertise.
+
+10. Ontario Considerations
+Highlight Ontario legislation, professional standards, privacy expectations, and compliance considerations where appropriate.
+
+11. Productivity Insights
+Estimate potential time savings while emphasizing that efficiency should never reduce service quality.
+
+12. Reflection
+Ask learners what AI improved, what still required human expertise, and how the workflow could be improved.
+
+13. Challenge Exercise
+Encourage learners to adapt the workflow to a different client scenario or business problem.
+
+14. Future Expansion
+Record ideas for new prompts, tools, integrations, and emerging AI capabilities.
+
+15. Revision History
+Track updates using semantic versioning.
+
+AI Lab Quality Standard
+Aligns with the Founding Papers.
+Improves professional capability rather than replacing it.
+Protects client privacy and confidentiality.
+Encourages verification instead of blind trust.
+Uses AI ethically and transparently.
+Builds repeatable workflows.
+Remains adaptable as AI technology evolves.
+
+Guiding Principle
+AI should make exceptional Realtors more effective—not less human. Every AI Lab should strengthen professional judgment, create more time for meaningful client relationships, and encourage responsible innovation.

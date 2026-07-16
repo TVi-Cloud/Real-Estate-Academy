@@ -1,0 +1,88 @@
+The Real Estate Academy
+Development Standard 07
+Project Standard
+Version 1.0
+
+Purpose
+This document establishes the minimum quality standard for every Academy Project. Projects transform knowledge into professional capability by requiring learners to complete authentic work that mirrors the responsibilities of practicing real estate professionals.
+
+Design Philosophy
+Projects are demonstrations of competence rather than academic exercises. Every project should solve a realistic problem, encourage independent thinking, integrate multiple competencies, and produce work a learner would be proud to include in a professional portfolio.
+
+Project Metadata
+Module Number
+Unit Number (if applicable)
+Project Title
+Project Type
+Estimated Completion Time
+Difficulty
+Competencies Developed
+Required Deliverables
+Version
+Author
+Contributors
+
+Required Sections
+1. Project Mission
+Describe the professional capability this project is intended to develop.
+
+2. Real-World Context
+Explain how this project reflects authentic real estate practice.
+
+3. Learning Outcomes
+Define measurable skills and competencies demonstrated upon completion.
+
+4. Project Brief
+Provide a detailed description of the task, client scenario, or business challenge.
+
+5. Required Deliverables
+Clearly identify every document, presentation, analysis, workflow, or artifact learners must produce.
+
+6. Constraints & Assumptions
+Define realistic boundaries such as budget, timeline, regulations, market conditions, or client requirements.
+
+7. AI Integration
+Describe how AI may responsibly assist while preserving original thinking, ethics, and professional judgment.
+
+8. Ontario Context
+Identify Ontario legislation, standards, and professional expectations relevant to the project.
+
+9. Success Criteria
+Describe what excellent work looks like before learners begin.
+
+10. Evaluation Rubric
+Assess using the Academy's four dimensions: Knowledge, Professional Judgment, Communication, and Ethics & Client Focus.
+
+11. Reflection
+Require learners to evaluate what they learned, what challenged them, and what they would improve.
+
+12. Portfolio Value
+Explain how the completed project contributes to the learner's professional portfolio.
+
+13. Mentor Notes
+Share practical advice, common pitfalls, and real-world insights.
+
+14. Future Expansion
+Record ideas for more advanced project variants or industry updates.
+
+15. Revision History
+Track meaningful changes using semantic versioning.
+
+Project Quality Standard
+Feels authentic and professionally relevant.
+Integrates multiple Academy competencies.
+Requires critical thinking and independent decision-making.
+Produces tangible deliverables.
+Encourages ethical reasoning.
+Supports portfolio development.
+Provides value beyond licensing.
+Aligns with the Founding Papers and Curriculum Master Plan.
+
+The Four-Dimensional Evaluation
+Knowledge – Demonstrates conceptual understanding.
+Professional Judgment – Makes sound, client-centered decisions.
+Communication – Communicates clearly, professionally, and persuasively.
+Ethics & Client Focus – Acts with integrity and prioritizes the client's best interests.
+
+Guiding Principle
+Every Academy Project should produce work that reflects the quality, professionalism, and judgment expected from a trusted Realtor. Upon completion, learners should have created something worthy of discussing in an interview, sharing with a mentor, or adding to a professional portfolio.

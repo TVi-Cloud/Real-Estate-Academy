@@ -1,0 +1,82 @@
+The Real Estate Academy
+Development Standard 08
+Capstone Standard
+Version 1.0
+
+Purpose
+This document establishes the minimum quality standard for the Capstone Experience within The Real Estate Academy. The Capstone is the culmination of the learner's journey and demonstrates the integration of knowledge, professional judgment, communication, ethics, technology, and client service into authentic professional practice.
+
+Design Philosophy
+The Capstone is not a final exam. It is a professional demonstration of readiness. Learners synthesize everything they have developed throughout the Academy into work that reflects the standards of a trusted real estate professional.
+
+Capstone Metadata
+Capstone Title
+Version
+Status
+Estimated Completion Time
+Difficulty
+Prerequisites
+Required Modules
+Required Projects
+Author
+Contributors
+Last Updated
+
+Required Sections
+1. Capstone Mission
+Define the professional transformation the Capstone is designed to demonstrate.
+
+2. Professional Challenge
+Present a comprehensive client or business scenario that requires integrating multiple Academy competencies.
+
+3. Learning Outcomes
+Identify the measurable capabilities graduates must demonstrate.
+
+4. Deliverables
+Specify all required reports, presentations, analyses, client communications, AI workflows, and supporting documentation.
+
+5. Ontario Context
+Ensure Ontario legislation, ethics, professional standards, and best practices are appropriately integrated.
+
+6. AI Integration
+Require responsible use of AI while demonstrating independent thinking, verification, and professional judgment.
+
+7. Client Experience
+Assess how effectively the learner communicates, builds trust, manages expectations, and serves client interests.
+
+8. Portfolio Presentation
+Require learners to organize and present their work as a professional portfolio suitable for mentors or brokerages.
+
+9. Reflection
+Ask learners to reflect on growth, strengths, future development, and lessons learned.
+
+10. Mentor Review
+Provide structured feedback from instructors or mentors emphasizing professional readiness.
+
+11. Future Development Plan
+Require a one-year professional learning plan following graduation.
+
+12. Revision History
+Track updates using semantic versioning.
+
+Capstone Evaluation
+The Capstone is evaluated using the Academy's Four-Dimensional Evaluation Framework.
+Knowledge – Demonstrates comprehensive understanding.
+Professional Judgment – Makes thoughtful, client-centered decisions in complex situations.
+Communication – Communicates with clarity, confidence, empathy, and professionalism.
+Ethics & Client Focus – Consistently acts with integrity while protecting the client's best interests.
+
+Capstone Quality Standard
+Integrates learning from multiple modules.
+Reflects authentic professional practice.
+Demonstrates independent thinking.
+Produces portfolio-quality work.
+Aligns with the Founding Papers.
+Embodies the Academy's values and mission.
+Prepares learners for real-world professional responsibility.
+
+Graduation Statement
+Successful completion of the Capstone signifies that the learner has demonstrated the knowledge, judgment, communication, ethics, and professional mindset expected of a graduate of The Real Estate Academy. Graduation marks the beginning of a lifelong commitment to learning, service, and professional excellence.
+
+Guiding Principle
+Graduation is not the end of learning. It is the beginning of a career built on trust, integrity, curiosity, continuous improvement, and service to others.

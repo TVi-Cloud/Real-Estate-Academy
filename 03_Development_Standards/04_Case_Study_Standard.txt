@@ -1,0 +1,76 @@
+The Real Estate Academy
+Development Standard 04
+Case Study Standard
+Version 1.0
+
+Purpose
+This document establishes the minimum quality standard for every Case Study within The Real Estate Academy. Case Studies bridge theory and practice by placing learners into realistic professional situations that require analysis, judgment, communication, ethics, and decision-making.
+
+Design Philosophy
+A Case Study is not an example with an obvious answer. It is an authentic scenario where learners must think like trusted professionals before reviewing expert guidance.
+
+Case Study Metadata
+Module Number
+Unit Number
+Learning Experience Number (if applicable)
+Case Study Title
+Difficulty
+Estimated Time
+Primary Competency
+Related Competencies
+Ontario Context
+Version
+Author
+Contributors
+
+Required Sections
+1. Learning Purpose
+State why this case study exists and which competencies it develops.
+
+2. Scenario Overview
+Introduce the client, situation, and context without revealing the solution.
+
+3. Client Profile
+Describe goals, concerns, finances, timeline, and relevant background.
+
+4. Supporting Information
+Provide listings, market conditions, documents, emails, timelines, or other realistic information.
+
+5. Decision Points
+Identify key moments where learners must make professional decisions.
+
+6. Reflection Questions
+Prompt learners to justify their reasoning before viewing guidance.
+
+7. Professional Analysis
+Present an expert breakdown explaining possible approaches, trade-offs, and risks.
+
+8. Ontario Considerations
+Highlight legislation, ethics, disclosure, or regulatory issues relevant to the scenario.
+
+9. AI Integration
+Show how AI could responsibly assist with research, organization, communication, or preparation while preserving professional judgment.
+
+10. Common Mistakes
+Identify errors frequently made by new professionals and how to avoid them.
+
+11. Mentor Notes
+Share practical wisdom and experience that extends beyond textbooks.
+
+12. Extension Challenge
+Offer a variation that changes assumptions and encourages deeper thinking.
+
+13. Revision History
+Track meaningful updates using semantic versioning.
+
+Case Study Quality Standard
+Feels authentic and professionally realistic.
+Requires critical thinking rather than memorization.
+Encourages ethical decision-making.
+Reflects Ontario practice where appropriate.
+Allows multiple reasonable approaches when appropriate.
+Builds confidence through practical application.
+Connects directly to the Learning Experience and Unit.
+
+Guiding Principle
+A great Case Study allows learners to experience professional judgment before they encounter it in real life. It transforms knowledge into wisdom through thoughtful practice.
